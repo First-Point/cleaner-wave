@@ -1,0 +1,28 @@
+{
+  "name": "Cleaner Wave",
+  "storeName": {
+    "ios": "Cleaner Wave: Water Remover",
+    "android": "Cleaner Wave: Water Remover"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "wikidata": "Q141016697",
+  "platforms": ["ios", "android"],
+  "category": "Utilities",
+  "price": "free",
+  "stores": {
+    "appStore": "https://apps.apple.com/us/app/cleaner-wave-water-remover/id6758241427",
+    "googlePlay": "https://play.google.com/store/apps/details?id=app.cleanerwave.speaker.cleaner.water.remover"
+  },
+  "website": "https://firstpoint.com.tr/apps/cleaner-wave",
+  "privacyPolicy": "https://firstpoint.com.tr/cleaner-wave/privacy-policy.html",
+  "terms": "https://firstpoint.com.tr/cleaner-wave/terms-of-service.html",
+  "accessibility": "https://firstpoint.com.tr/apps/cleaner-wave/accessibility",
+  "support": "https://form.jotform.com/261402952033044",
+  "updated": "2026-09-07"
+}
