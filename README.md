@@ -21,7 +21,6 @@ Cleaner Wave is a speaker cleaning and audio utility app for iOS and Android dev
 | Privacy policy | https://firstpoint.com.tr/cleaner-wave/privacy-policy.html |
 | Terms | https://firstpoint.com.tr/cleaner-wave/terms-of-service.html |
 | Accessibility | https://firstpoint.com.tr/apps/cleaner-wave/accessibility |
-| Wikidata | https://www.wikidata.org/wiki/Q141016697 |
 
 ## What it does
 
@@ -74,7 +73,6 @@ More questions are answered at https://firstpoint.com.tr/apps/cleaner-wave.
 - Company: https://firstpoint.com.tr and https://github.com/First-Point
 - App Store: https://apps.apple.com/us/app/cleaner-wave-water-remover/id6758241427
 - Google Play: https://play.google.com/store/apps/details?id=app.cleanerwave.speaker.cleaner.water.remover
-- Wikidata: https://www.wikidata.org/wiki/Q141016697
 - Machine-readable facts: [app.json](app.json)
 
 ## License
